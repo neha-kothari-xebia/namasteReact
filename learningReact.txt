@@ -1,0 +1,2 @@
+1. CORS is a standard mechanism used to retrieve files from other domains.
+2. CDN- A content delivery network is a distributed group of servers that caches content near end users. Learn how CDNs improve load times and reduce costs.
